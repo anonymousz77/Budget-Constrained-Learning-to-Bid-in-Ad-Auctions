@@ -1,0 +1,26 @@
+results/
+__pycache__/
+.ipynb_checkpoints/
+
+# repo hygiene / large files
+node_modules/
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.next/
+dist/
+build/
+.cache/
+.pytest_cache/
+*.log
+*.ckpt
+*.pt
+*.pth
+*.zip
+*.tar.gz
+*.parquet
+*.db
+.DS_Store
+.ipynb_checkpoints/
